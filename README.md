@@ -1,1 +1,2 @@
-# FunLearn
+# Geologist
+Geologist Project
